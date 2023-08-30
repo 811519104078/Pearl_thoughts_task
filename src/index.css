@@ -1,0 +1,576 @@
+.dog-breeds-container {
+  width: 100%;
+  display: flex;
+  overflow: none;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.dog-breeds-dog-breeds {
+  width: 100%;
+  height: 1363px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.dog-breeds-dog1 {
+  top: 196px;
+  left: 60px;
+  width: 160px;
+  height: 160px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0s;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dog-breeds-image1 {
+  width: 310.52630615234375px;
+height: 232.1553955078125px;
+top: 192.84210205078125px;
+left: 54.73681640625px;
+overflow: auto;
+
+
+}
+.dog-breeds-dog3 {
+  top: 196px;
+  left: 460px;
+  width: 160px;
+  height: 160px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dog-breeds-image12 {
+  width: 347.3684387207031px;
+height: 231.57894897460938px;
+top: 166.52630615234375px;
+left: 370.5263671875px;
+overflow: auto;
+
+}
+.dog-breeds-dog6 {
+  top: 396px;
+  left: 460px;
+  width: 160px;
+  height: 160px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dog-breeds-image10 {
+  width: 238.94735717773438px;
+height: 168.42103576660156px;
+top: 391.7894592285156px;
+left: 434.7369384765625px;
+overflow: auto;
+}
+.dog-breeds-dog2 {
+  top: 196px;
+  left: 260px;
+  width: 160px;
+  height: 160px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dog-breeds-image9 {
+  width: 254.59393310546875px;
+height: 169.4736785888672px;
+top: 190.73684692382812px;
+left: 212.631591796875px;
+overflow: auto;
+
+}
+.dog-breeds-dog4 {
+  top: 396px;
+  left: 60px;
+  width: 160px;
+  height: 160px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dog-breeds-image11 {
+  width: 173.68421936035156px;
+height: 216.8599395751953px;
+top: 362.3157958984375px;
+left: 54.73681640625px;
+overflow: auto;
+}
+.dog-breeds-dog5 {
+  top: 396px;
+  left: 260px;
+  width: 160px;
+  height: 160px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dog-breeds-image5 {
+  width: 167.19839477539062px;
+height: 254.73684692382812px;
+top: 340.2105407714844px;
+left: 256.84210205078125px;
+overflow: auto;
+}
+.dog-breeds-dog7 {
+  top: 596px;
+  left: 60px;
+  width: 160px;
+  height: 160px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dog-breeds-image4 {
+  width: 166.31578063964844px;
+height: 232.63157653808594px;
+top: 562.315788269043px;
+left: 56.84210205078125px;
+overflow: auto;
+
+}
+.dog-breeds-dog10 {
+  top: 796px;
+  left: 60px;
+  width: 160px;
+  height: 160px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dog-breeds-image6 {
+  width: 169.4736785888672px;
+height: 236.84210205078125px;
+top: 766.5263214111328px;
+left: 54.73681640625px;
+overflow: auto;
+}
+.dog-breeds-dog8 {
+  top: 596px;
+  left: 260px;
+  width: 160px;
+  height: 160px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dog-breeds-image7 {
+  width: 167.91778564453125px;
+  height: 191.5789337158203px;
+  top: 585.4736862182617px;
+  left: 255.78948974609375px;
+  overflow: auto;
+  }
+.dog-breeds-dog9 {
+  top: 596px;
+  left: 460px;
+  width: 160px;
+  height: 160px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dog-breeds-image2 {
+  width: 182.8738250732422px;
+height: 173.68421936035156px;
+top: 589.684211730957px;
+left: 452.631591796875px;
+overflow: auto;
+}
+.dog-breeds-line {
+  top: 996px;
+  left: 60px;
+  width: 560px;
+  height: 1px;
+  position: absolute;
+}
+.dog-breeds-text {
+  top: 1036px;
+  left: 104px;
+  color: rgba(0, 0, 0, 1);
+  width: 175px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 700;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dog-breeds-heartredicon4 {
+  top: 1036px;
+  left: 62px;
+  width: 16.731245040893555px;
+  height: 15px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dog-breeds-heartredicon3{
+  width: 16.731245040893555px;
+height: 15px;
+top: 61px;
+left: 604px;
+display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+
+}
+.dog-breeds-svg-compound-path {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 15px;
+  position: absolute;
+}
+.dog-breeds-dog11 {
+  top: 1091px;
+  left: 60px;
+  width: 128px;
+  height: 128px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dog-breeds-image51 {
+  width: 133.7587127685547px;
+height: 203.7894744873047px;
+top: 1046.368408203125px;
+left: 57.4737548828125px;
+overflow: auto;
+}
+.dog-breeds-dog12 {
+  top: 1091px;
+  left: 204px;
+  width: 128px;
+  height: 128px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dog-breeds-image13 {
+  width: 135.5789337158203px;
+height: 180.77194213867188px;
+top: 1075.8421325683594px;
+left: 199.78948974609375px;
+overflow: auto;
+}
+.dog-breeds-dog13 {
+  top: 1091px;
+  left: 348px;
+  width: 128px;
+  height: 128px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dog-breeds-image14 {
+  width: 188.63157653808594px;
+height: 140.63157653808594px;
+top: 1084.2631530761719px;
+left: 314.3157958984375px;
+overflow: auto;
+}
+
+.dog-breeds-svg-compound-path01 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 15px;
+  position: absolute;
+}
+
+.dog-breeds-svg-compound-path02 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 15px;
+  position: absolute;
+}
+
+.dog-breeds-svg-compound-path03 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 15px;
+  position: absolute;
+}
+
+.dog-breeds-svg-compound-path04 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 15px;
+  position: absolute;
+}
+
+.dog-breeds-svg-compound-path05 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 15px;
+  position: absolute;
+}
+
+.dog-breeds-svg-compound-path06 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 15px;
+  position: absolute;
+}
+
+.dog-breeds-svg-compound-path07 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 15px;
+  position: absolute;
+}
+
+.dog-breeds-svg-compound-path08 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 15px;
+  position: absolute;
+}
+.dog-breeds-frame-group {
+  top: 1196px;
+  left: 163px;
+  width: 16.731245040893555px;
+  height: 15px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dog-breeds-svg-compound-path09 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 15px;
+  position: absolute;
+}
+
+.dog-breeds-svg-compound-path10 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 15px;
+  position: absolute;
+}
+
+.dog-breeds-svg-compound-path11 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 15px;
+  position: absolute;
+}
+
+.dog-breeds-svg-compound-path12 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 15px;
+  position: absolute;
+}
+
+.dog-breeds-svg-compound-path13 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 15px;
+  position: absolute;
+}
+.dog-breeds-dog14 {
+  top: 1091px;
+  left: 492px;
+  width: 128px;
+  height: 128px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dog-breeds-mask-group {
+  top: 0px;
+  left: 0px;
+  width: 128px;
+  height: 128px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(196, 196, 196, 1);
+}
+.dog-breeds-image141 {
+  top: -6.7368364334106445px;
+  left: -33.6842041015625px;
+  width: 189px;
+  height: 141px;
+  position: absolute;
+}
+.dog-breeds-image15 {
+  width: 135.55284118652344px;
+height: 189.46591186523438px;
+top: 1054px;
+left: 492px;
+overflow: auto;
+}
+
+.dog-breeds-svg-compound-path14 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 15px;
+  position: absolute;
+}
+.dog-breeds-text2 {
+  top: 57px;
+  left: 61px;
+  color: rgba(0, 0, 0, 1);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.dog-breeds-svg-compound-path15 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 15px;
+  position: absolute;
+}
+.dog-breeds-searchbar {
+  top: 121px;
+  left: 60px;
+  width: 560px;
+  height: 36px;
+  position: absolute;
+  border-radius: 4px;
+}
+.dog-breeds-text4 {
+  top: 129px;
+  left: 77px;
+  color: rgba(68, 72, 76, 1);
+  width: 281px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Nunito Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dog-breeds-button {
+  top: 121px;
+  left: 515px;
+  width: 105px;
+  height: 36px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(6, 147, 227, 1);
+}
+.dog-breeds-text6 {
+  top: 8px;
+  left: 44px;
+  color: rgba(255, 255, 255, 1);
+  width: 45px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dog-breeds-searchicon {
+  top: 8px;
+  left: 16px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dog-breeds-frame-group1 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dog-breeds-frame-group2 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.dog-breeds-svg-compound-path16 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
