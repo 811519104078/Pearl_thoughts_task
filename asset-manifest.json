@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Pearl_thoughts_task/static/css/main.327f81d8.css",
+    "main.js": "/Pearl_thoughts_task/static/js/main.29737269.js",
+    "static/js/787.ab4c2420.chunk.js": "/Pearl_thoughts_task/static/js/787.ab4c2420.chunk.js",
+    "static/media/image 15.svg": "/Pearl_thoughts_task/static/media/image 15.4986f8458edc3683737753782a0a188c.svg",
+    "static/media/image 14.svg": "/Pearl_thoughts_task/static/media/image 14.bc43f0d8f373cdef64c92a593d8a57fb.svg",
+    "static/media/image 5.svg": "/Pearl_thoughts_task/static/media/image 5.ca015b91356d1cd73ed344ad6beb20c8.svg",
+    "static/media/image 13.svg": "/Pearl_thoughts_task/static/media/image 13.f67d4404f06d4a0aa56b40d9196bc922.svg",
+    "static/media/image 10.svg": "/Pearl_thoughts_task/static/media/image 10.70ea5c4df403381895b462893754c353.svg",
+    "static/media/image 9.svg": "/Pearl_thoughts_task/static/media/image 9.1bbd3cdf9b9e633abf8fcaedad3d284b.svg",
+    "static/media/image 12.svg": "/Pearl_thoughts_task/static/media/image 12.d68605df374ffae37aa1d33ab3599b04.svg",
+    "static/media/image 2.svg": "/Pearl_thoughts_task/static/media/image 2.f338a51f01830726cceb7b42f55eb91f.svg",
+    "static/media/image 7.svg": "/Pearl_thoughts_task/static/media/image 7.c6b66c33afe800f71131692f7cd8e558.svg",
+    "static/media/image 11.svg": "/Pearl_thoughts_task/static/media/image 11.294a0b8edd0e739557452812c64c48d3.svg",
+    "static/media/image 1.svg": "/Pearl_thoughts_task/static/media/image 1.610bd934d1c1836cf2afb239caecb3cd.svg",
+    "static/media/image 4.svg": "/Pearl_thoughts_task/static/media/image 4.01fbba26ac19e83740f2a1f2a10f335a.svg",
+    "static/media/image 6.svg": "/Pearl_thoughts_task/static/media/image 6.a3c66662750c977b058a0736b250b449.svg",
+    "index.html": "/Pearl_thoughts_task/index.html",
+    "main.327f81d8.css.map": "/Pearl_thoughts_task/static/css/main.327f81d8.css.map",
+    "main.29737269.js.map": "/Pearl_thoughts_task/static/js/main.29737269.js.map",
+    "787.ab4c2420.chunk.js.map": "/Pearl_thoughts_task/static/js/787.ab4c2420.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.327f81d8.css",
+    "static/js/main.29737269.js"
+  ]
+}
