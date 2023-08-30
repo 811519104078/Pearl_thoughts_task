@@ -70,7 +70,7 @@ function App() {
         
         
         <div className="dog-breeds-dog11">
-          <img src={image5} alt="image57498" className="dog-breeds-image15" />
+          <img src={image5} alt="image57498" className="dog-breeds-image13" />
         </div>
         <div className="dog-breeds-dog12">
           <img src={image13} alt="image137410" className="dog-breeds-image13" />
@@ -80,7 +80,7 @@ function App() {
         </div>
       <div className="dog-breeds-dog14">
           
-          <img src={image15} alt className="dog-breeds-image15" />
+          <img src={image15} alt className="dog-breeds-image13" />
         </div>
         
         <span className="dog-breeds-text2">
